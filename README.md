@@ -4,7 +4,7 @@ Basic responder for common questions and problems in the channels that SPLAT hel
 
 ## Building
 ~~~
-go build ./cmd/slack-bot/slack-bot.go
+podman build .
 ~~~
 
 ## Running
